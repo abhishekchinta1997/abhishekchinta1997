@@ -1,13 +1,20 @@
 # Hi there 👋 I'm Abhishek Chinta
 
+## 💼 Welcome to My GitHub
+
+This GitHub serves as my **technical portfolio**, where I share automation frameworks, coding projects, utilities, and experiments in software testing.
+
+Whether you're a **recruiter, hiring manager, or interviewer**, I hope these repositories provide insight into my technical skills, coding practices, problem-solving approach, and passion for building scalable automation solutions.
+
 <div align="center">
 
-### 🚀 Senior Automation Test Engineer | Playwright | Selenium | C# | .NET | CI/CD | AWS | AI for QA
+### 🚀 Test Automation Engineer (SDET) | Playwright | Selenium | C# | .NET | CI/CD | AWS | AI for QA
 
 Building scalable test automation frameworks, improving CI/CD pipelines, and exploring AI-powered software testing.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abhishekchinta1997/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:abhishek.chintaaa@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/abhishekchinta1997)
 
 </div>
 
@@ -27,6 +34,15 @@ Currently I'm focused on:
 - 🤖 Exploring AI-powered Software Testing
 - 🚀 Building automation utilities that simplify QA workflows
 
+## 🏆 Career Highlights
+
+- 🚀 7+ Years in Test Automation
+- ⚡ Reduced manual testing effort by 80%+
+- 📈 Increased automation coverage from 60% to 85%
+- 🤖 AI-assisted automation using Claude Code & ChatGPT
+- 🔥 Experience with Selenium → Playwright migration
+- ☁️ Hands-on with CI/CD and cloud-native testing
+
 ---
 
 # 🛠️ Tech Stack
@@ -34,9 +50,11 @@ Currently I'm focused on:
 ## Languages
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
@@ -47,6 +65,9 @@ Currently I'm focused on:
 ![NUnit](https://img.shields.io/badge/NUnit-76B900?style=for-the-badge)
 ![Reqnroll](https://img.shields.io/badge/Reqnroll-orange?style=for-the-badge)
 ![SpecFlow](https://img.shields.io/badge/SpecFlow-652D90?style=for-the-badge)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![TestComplete](https://img.shields.io/badge/TestComplete-FF6F00?style=for-the-badge)
+![Appium](https://img.shields.io/badge/Appium-EE376D?style=for-the-badge&logo=appium&logoColor=white)
 
 ---
 
@@ -74,7 +95,18 @@ Currently I'm focused on:
 
 ## Tools
 
-Visual Studio • VS Code • Git • Postman • Portainer • Selenium Grid
+Visual Studio • VS Code • Android Studio • Git • Postman • PowerShell • Portainer • Selenium Grid
+
+---
+
+## AI-Assisted Testing
+
+- Claude Code
+- ChatGPT
+- Prompt Engineering
+- AI-assisted Test Development
+- Test Script Generation
+- Debugging & Refactoring
 
 ---
 
@@ -141,14 +173,14 @@ Coming Soon 🚀
 
 # 💡 Quote I Believe In
 
-> "Great automation isn't about replacing testers—it's about enabling quality at scale."
+> "Great automation isn't about replacing testers-it's about enabling quality at scale."
 
 ---
 
 # 🤝 Let's Connect
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_PROFILE
-- 📧 Email: YOUR_EMAIL
+- 💼 LinkedIn: https://www.linkedin.com/in/abhishekchinta1997/
+- 📧 Email: abhishek.chintaaa@gmail.com
 - 🌐 GitHub: https://github.com/abhishekchinta1997
 
 ---
